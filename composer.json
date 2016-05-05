@@ -1,0 +1,18 @@
+{
+    "name": "richp10/janus-api-php",
+    "description": "PHP Library to access the janus-gateway.",
+    "license": "MIT",
+    "keywords": ["janus"],
+    "authors": [
+        {
+            "name": "richp10",
+            "email": "richp10@gmail.com"
+        }
+    ],
+    "require": { },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
